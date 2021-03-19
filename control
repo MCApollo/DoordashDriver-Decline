@@ -1,0 +1,9 @@
+Package: com.mcapollo.doordash-decline
+Name: DoorDash Driver - Decline
+Version: 1.0
+Architecture: iphoneos-arm
+Description: DoordashDriver - One tap decline.
+Maintainer: MCApollo
+Author: MCApollo
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
